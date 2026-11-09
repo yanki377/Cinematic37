@@ -2,6 +2,17 @@
 
 A movie recommendation portfolio project built with Python, NumPy, FastAPI, and vanilla HTML/CSS/JavaScript. Select and rate 3–10 movies to get a personal recommendation list without creating an account.
 
+## Preview
+
+### Homepage
+![Cinematic 37 homepage](docs/screenshots/home.png)
+
+### Movie selection
+![Select and rate your favorite movies](docs/screenshots/catalog.png)
+
+### Personalized recommendations
+![Movie recommendations based on your ratings](docs/screenshots/recommendations.png)
+
 ## Current features
 
 - Biased matrix factorization combined with a popularity ranking through weighted reciprocal rank fusion.
@@ -65,13 +76,3 @@ MovieLens Small is provided by GroupLens. Its original usage conditions and cita
 Movie information and posters are provided by TMDB. This product uses the TMDB API but is not endorsed or certified by TMDB. TMDB imagery is not licensed as this project's source code.
 
 
-## Screenshots
-
-### Homepage
-![Cinematic 37 homepage](docs/screenshots/home.png)
-
-### Movie selection
-![Select and rate your favorite movies](docs/screenshots/catalog.png)
-
-### Personalized recommendations
-![Movie recommendations based on your ratings](docs/screenshots/recommendations.png)
