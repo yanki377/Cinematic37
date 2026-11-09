@@ -1,0 +1,3 @@
+model,validation_rmse,evaluated_ratings
+global_mean,1.2740506281068904,710
+matrix_factorization,0.9742530763305028,710

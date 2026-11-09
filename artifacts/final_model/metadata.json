@@ -1,0 +1,27 @@
+{
+  "format_version": 1,
+  "mf_initialization": {
+    "n_factors": 20,
+    "seed": 42
+  },
+  "mf_training": {
+    "epochs": 10,
+    "learning_rate": 0.01,
+    "regularization": 0.05,
+    "seed": 42
+  },
+  "hybrid_settings": {
+    "popularity_weight": 0.8,
+    "rank_constant": 60
+  },
+  "training_cutoff_unix": 1498029445,
+  "training_ratings": 90752,
+  "training_users": 563,
+  "training_movies": 8586,
+  "numpy_version": "2.5.4",
+  "pandas_version": "3.1.1",
+  "source_sha256": {
+    "movies.csv": "5a5f32dd9bb3797b8e728a1b98958789d2b13f294a69fdfbc5727f8a9611aa07",
+    "ratings.csv": "aa289ca83157595d0df6aea1be6a4ded676ddc4385472e8313a8ed9805352646"
+  }
+}

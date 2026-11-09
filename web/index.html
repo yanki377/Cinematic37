@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1015">
+ <title>Cinematic 37 — Sıradaki filmini keşfet</title>
+<link rel="icon" type="image/png" href="/static/images/logo.png">
+  <link rel="stylesheet" href="/static/css/style.css?v=cinematic37-2">
+  <script src="/static/js/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#film-sec">Filmlere geç</a>
+  <header class="site-header">
+    <div class="container nav">
+     <a class="brand cinematic-brand" href="/" aria-label="Cinematic 37 ana sayfa">
+  <img src="/static/images/logo.png" alt="" width="112" height="112">
+  <strong>Cinematic <em>37</em></strong>
+</a>
+      <nav aria-label="Ana menü">
+        <a href="#nasil-calisir">Nasıl çalışır?</a>
+        <a class="nav-cta" href="#film-sec">Filmleri keşfet <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div id="poster-wall" class="poster-wall" aria-hidden="true"></div>
+      <div class="hero-shade"></div>
+      <div class="container hero-layout">
+        <div class="hero-copy">
+          <p class="eyebrow"><span></span> İYİ BİR FİLMLE BAŞLAR</p>
+          <h1 id="hero-title">Film gecesi.<br><em>Senin zevkin.</em></h1>
+          <p class="hero-description">Sevdiğin birkaç filmi seç, puanlarını ver. Sıradaki hikâyeni kendi film zevkinden yola çıkarak keşfet.</p>
+          <a class="button button-primary" href="#film-sec">Film zevkini keşfet <span aria-hidden="true">→</span></a>
+          <p class="hero-note">Üyelik olmadan · 3 filmle başla · Kendi puanlarınla</p>
+        </div>
+        <aside class="preview-panel" aria-label="Katalogdan film seçkileri">
+          <div class="preview-heading"><span class="live-dot"></span> ARŞİVDEN SEÇKİLER</div>
+          <div id="hero-preview"><p class="muted">Filmler yükleniyor…</p></div>
+          <a href="#film-sec" class="preview-link">Kataloğa göz at <span aria-hidden="true">↗</span></a>
+        </aside>
+      </div>
+      <a class="scroll-hint" href="#film-sec">KEŞFETMEYE BAŞLA <span aria-hidden="true">↓</span></a>
+    </section>
+
+    <section class="container how-section" id="nasil-calisir" aria-labelledby="how-title">
+      <h2 id="how-title" class="section-kicker">HER GÜZEL LİSTE, BİR FİLMLE BAŞLAR.</h2>
+      <div class="steps">
+        <div class="step"><span>01</span><div><h3>Sevdiğin filmleri seç</h3><p>İzlediğin ve bildiğin 3–10 filmle başla.</p></div></div>
+        <div class="step"><span>02</span><div><h3>Puanlarını ver</h3><p>Filmleri ne kadar sevdiğini sen belirle.</p></div></div>
+        <div class="step"><span>03</span><div><h3>Yeni hikâyeler keşfet</h3><p>Verdiğin puanlarla kişisel bir liste oluştur.</p></div></div>
+      </div>
+    </section>
+
+    <section class="container catalog-section" id="film-sec" aria-labelledby="catalog-title">
+      <div class="catalog-heading">
+        <div><p class="eyebrow">SENİN TERCİHLERİNLE BAŞLAR</p><h2 id="catalog-title">Sevdiğin filmlerle<br>başlayalım.</h2></div>
+        <div class="search-wrap">
+          <label class="sr-only" for="movie-search">Film adı veya tür ara</label>
+          <span aria-hidden="true">⌕</span>
+          <input id="movie-search" type="search" placeholder="Film adı veya tür ara…" autocomplete="off">
+        </div>
+      </div>
+      <p id="catalog-status" class="catalog-status" role="status" aria-live="polite">Film kataloğu yükleniyor…</p>
+      <p id="selection-message" class="selection-message" role="status" aria-live="polite"></p>
+      <div id="movie-grid" class="movie-grid"></div>
+    </section>
+
+    <section id="recommendations" class="container recommendations-section" aria-labelledby="recommendations-title" hidden>
+      <div class="catalog-heading">
+        <div><p class="eyebrow">SENİN SEÇİMLERİNDEN YOLA ÇIKARAK</p><h2 id="recommendations-title">Sıradaki hikâyelerin.</h2></div>
+        <button id="edit-preferences" class="button button-secondary" type="button">Puanlarımı düzenle</button>
+      </div>
+      <p id="recommendation-status" class="catalog-status" role="status" aria-live="polite"></p>
+      <div id="recommendation-loading" class="loading-panel" hidden><span class="spinner" aria-hidden="true"></span><p>Film listen hazırlanıyor…</p></div>
+      <div id="recommendation-grid" class="movie-grid"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <a class="brand cinematic-brand" href="/">
+  <strong>Cinematic <em>37</em></strong>
+</a>
+      <p>Film bilgileri ve görseller: <a href="https://www.themoviedb.org/" target="_blank" rel="noopener noreferrer">TMDB</a></p>
+      <p class="attribution">This product uses the TMDB API but is not endorsed or certified by TMDB.</p>
+    </div>
+  </footer>
+
+  <dialog id="movie-dialog" aria-labelledby="detail-title">
+    <button id="close-dialog" class="close-dialog" type="button" aria-label="Film detayını kapat">×</button>
+    <div class="detail-layout">
+      <img id="detail-poster" alt="">
+      <div>
+        <p id="detail-meta" class="eyebrow"></p>
+        <h2 id="detail-title"></h2>
+        <p id="detail-genres" class="detail-genres"></p>
+        <p id="detail-overview" class="detail-overview"></p>
+        <button id="detail-select" class="button button-secondary" type="button">İzledim, filmi seç</button>
+        <a id="detail-source" class="button button-primary" target="_blank" rel="noopener noreferrer">TMDB'de incele ↗</a>
+      </div>
+    </div>
+  </dialog>
+
+  <aside id="selection-bar" class="selection-bar" aria-label="Film seçimlerin" hidden>
+    <div class="selection-summary"><strong id="selected-count">0 film seçtin</strong><small id="selected-help">En az 3 film seç.</small></div>
+    <div id="selection-thumbs" class="selection-thumbs" aria-hidden="true"></div>
+    <button id="clear-selection" class="clear-selection" type="button" aria-label="Bütün film seçimlerini temizle" title="Seçimleri temizle">×</button>
+    <button id="rate-selected" class="button button-primary" type="button" disabled>Puanla ve öneri al →</button>
+  </aside>
+
+  <dialog id="rating-dialog" aria-labelledby="rating-title">
+    <button id="close-ratings" class="close-dialog" type="button" aria-label="Puanlamayı kapat">×</button>
+    <p class="eyebrow">FİLM ZEVKİNİ TANIYALIM</p>
+    <h2 id="rating-title">Bu filmleri ne kadar sevdin?</h2>
+    <p class="rating-description">Her film için puanını seç. Öneriler bu puanlarla oluşturulacak.</p>
+    <form id="rating-form">
+      <div id="rating-rows"></div>
+      <button class="button button-primary rating-submit" type="submit">Önerilerimi getir →</button>
+    </form>
+  </dialog>
+</body>
+</html>

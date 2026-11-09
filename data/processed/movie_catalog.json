@@ -1,0 +1,534 @@
+[
+  {
+    "movie_id": 356,
+    "tmdb_id": 13,
+    "title": "Forrest Gump",
+    "original_title": "Forrest Gump",
+    "movielens_title": "Forrest Gump (1994)",
+    "release_date": "1994-06-23",
+    "overview": "Forrest Gump, düşük IQ’su olmasına rağmen, Amerikan tarihinin en önemli olaylarının tam ortasında yer alan biridir. Alabama'da büyüyen Forrest, koşma yeteneği sayesinde üniversiteye girer, Vietnam Savaşı'na katılır, Beyaz Saray’a davet edilir ve karides işinden milyoner olur. Ancak tüm bu başarılar, çocukluk aşkı Jenny’ye duyduğu sevginin yanında sönük kalır.",
+    "genres": [
+      "Komedi",
+      "Dram",
+      "Romantik"
+    ],
+    "runtime": 142,
+    "poster_url": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "tmdb_rating": 8.462,
+    "tmdb_vote_count": 30837
+  },
+  {
+    "movie_id": 318,
+    "tmdb_id": 278,
+    "title": "Esaretin Bedeli",
+    "original_title": "The Shawshank Redemption",
+    "movielens_title": "Shawshank Redemption, The (1994)",
+    "release_date": "1994-09-23",
+    "overview": "Genç ve başarılı bir banker olan Andy Dufresne, karısını ve onun sevgilisini öldürmek suçundan ömür boyu hapse mahkum edilir ve Shawshank hapishanesine gönderilir. İşkence, tecavüz, dayak dahil her türlü kötü koşulun hüküm sürdüğü hapishane koşullarında, Andy'nin hayata bağlı ve her daim iyi bir şeyler bulma çabası içindeki hali, çevresindeki herkesi çok etkileyecektir. Bir süre sonra parmaklıkların arkasında bile özgür bir yaşam olabileceğine bütün mahkumları inandırır. Bu mahkumlardan biri olan Ellis Boyd \"Red\" ve Andy, unutulmaz bir dostluk kurarak hapishaneyi bambaşka bir yer haline getirirler.",
+    "genres": [
+      "Dram",
+      "Suç"
+    ],
+    "runtime": 142,
+    "poster_url": "https://image.tmdb.org/t/p/w500/7T2SDS5efuJiK45oyKoEzf9RKjw.jpg",
+    "tmdb_rating": 8.735,
+    "tmdb_vote_count": 31792
+  },
+  {
+    "movie_id": 296,
+    "tmdb_id": 680,
+    "title": "Ucuz Roman",
+    "original_title": "Pulp Fiction",
+    "movielens_title": "Pulp Fiction (1994)",
+    "release_date": "1994-09-10",
+    "overview": "Jules Winnfield ve Vincent Vega, mafya babası patronları Marsellus Wallace’tan çalınan bir çantayı geri almaya giden iki profesyonel tetikçidir. Wallace aynı zamanda Vincent’a, kendisi birkaç gün sonra şehir dışındayken karısını dışarı çıkarmasını söyler. Butch Coolidge, bir sonraki maçını kaybetmesi için Wallace’tan para alan yaşlı bir boksördür. Honey Bunny ve Pumpkin, yer değişikliğine ihtiyaçları olduğuna karar veren soyguncu bir çifttir. Görünüşte birbirleriyle alakası olmayan bu insanların hayatları, hem heyecanlı hem de eğlendirici bir sinema filmi macerasında nefes kesici bir şekilde birleşecektir.",
+    "genres": [
+      "Gerilim",
+      "Suç",
+      "Komedi"
+    ],
+    "runtime": 154,
+    "poster_url": "https://image.tmdb.org/t/p/w500/AgY33Wtg4737MhYopJSFyKWhKsO.jpg",
+    "tmdb_rating": 8.48,
+    "tmdb_vote_count": 31270
+  },
+  {
+    "movie_id": 593,
+    "tmdb_id": 274,
+    "title": "Kuzuların Sessizliği",
+    "original_title": "The Silence of the Lambs",
+    "movielens_title": "Silence of the Lambs, The (1991)",
+    "release_date": "1991-02-14",
+    "overview": "Akademiden başarıyla mezun olmuş genç FBI ajanı Clarice Starling, kurbanlarının derilerini yüzen sapık bir katilin elinden bir kadını kurtarmaya çalışır. Clarice, katile ulaşmak için başka bir psikopat olan ünlü doktor Hannibal Lecter ile yakınlaşır. Lecter'dan bilgi alabilmesi için önce onun güvenini kazanması gerekmektedir.1992 yılında 7 dalda Oscar'a aday olan film, yönetmeni ve başrol oyuncularına altın heykelciği getirirken en iyi film ve en iyi senaryo uyarlaması dalında da ödüle hak kazanmıştı.",
+    "genres": [
+      "Suç",
+      "Gerilim",
+      "Dram"
+    ],
+    "runtime": 119,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4AoIoP6q006blFeb7vV9kKPD4En.jpg",
+    "tmdb_rating": 8.345,
+    "tmdb_vote_count": 18811
+  },
+  {
+    "movie_id": 2571,
+    "tmdb_id": 603,
+    "title": "Matrix",
+    "original_title": "The Matrix",
+    "movielens_title": "Matrix, The (1999)",
+    "release_date": "1999-03-31",
+    "overview": "Bir bilgisayar programcısı olan Thomas Anderson aynı zamanda Neo takma isimli çok usta bir bilgisayar korsanıdır. Ancak siyah takım elbiseli ve gözlüklü adamların yakın takibindedir. Bu takibin nedenini ise karşılaşacağı Morpheus'dan öğrenecektir. Neo, birden kendini Morpheus'un anlattıklarına güvenmek zorunda kaldığı büyük bir komplonun içinde bulacaktır. İçinde yaşadığımızı sandığımız bu dünya tamamiyle aldatıcıdır. Tüm insanlık aslında uzaydan gelen yaratıkların köleleridir. Neo, Trinity ve Morpheus'un da yardımıyla kendilerini bu düzeni yıkmaya adayan bir grubun içine katılır.",
+    "genres": [
+      "Aksiyon",
+      "Bilim-Kurgu"
+    ],
+    "runtime": 136,
+    "poster_url": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+    "tmdb_rating": 8.263,
+    "tmdb_vote_count": 29181
+  },
+  {
+    "movie_id": 480,
+    "tmdb_id": 329,
+    "title": "Jurassic Park",
+    "original_title": "Jurassic Park",
+    "movielens_title": "Jurassic Park (1993)",
+    "release_date": "1993-06-11",
+    "overview": "Mağaralarda yapılan kazı çalışmaları sonucunda dinozorların yaşadığı tarih öncesi çağa ait bazı sivrisinek fosilleri bulunur. Milyarder John Hammond öncülüğündeki bilim adamları, son derece ilginç ve karmaşık testler deneyerek bu sivrisinek fosillerindeki kan örneklerini almayı başarırlar.Dinazorların DNA zinciri bir Afrika kurbağasıyla birleştirilerek 65 milyon yıl önce yaşamış bu korkunç yaratıklar yeniden yaratılır. Hammond hükümetten kiraladığı bir adada klonladıkları bu vahşi hayvanlar için elektrikli tellerle çevrili bir hayvanat bahçesi kurmuştur. İhtiyar Hammond, bir hafta sonunda Doktor Allen gibi bazı işinde uzman bilim adamlarını Jurassic Park adını verdiği bu hayvanat bahçesini test ettirmek için adaya getirir. Ancak embriyolarını ele geçirmek isteyen biri, güvenlik sistemini devre dışı bırakınca serbest kalan dinozorlar adada dehşet saçmaya başlar...",
+    "genres": [
+      "Macera",
+      "Bilim-Kurgu"
+    ],
+    "runtime": 127,
+    "poster_url": "https://image.tmdb.org/t/p/w500/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg",
+    "tmdb_rating": 7.977,
+    "tmdb_vote_count": 18577
+  },
+  {
+    "movie_id": 260,
+    "tmdb_id": 11,
+    "title": "Yıldız Savaşları: Yeni Umut",
+    "original_title": "Star Wars",
+    "movielens_title": "Star Wars: Episode IV - A New Hope (1977)",
+    "release_date": "1977-05-25",
+    "overview": "Yıldız Savaşları: Yeni Umut'ta Luke Skywalker, galaksiyi değiştirecek bir yolculuğa çıkar. Luke, İmparatorluğun kuruluşundan 19 yıl sonra çöl gezegen Tatooine'de yıllardır tek başına yaşayan Obi-Wan Kenobi ile karşılaşınca Asiler İttifakı mücadelesinin içine çekilir. Obi-Wan, Luke'u Jedi olarak eğitmeye başlarken Luke da güzel Asi Prenses Leia'yı Darth Vader ve kötü İmparatorluğun pençesinden kurtarmak için Obi-Wan ile zorlu bir göreve girişir.",
+    "genres": [
+      "Macera",
+      "Aksiyon",
+      "Bilim-Kurgu"
+    ],
+    "runtime": 125,
+    "poster_url": "https://image.tmdb.org/t/p/w500/fT9pEpt2pd0m7ZC0shQo08E77xI.jpg",
+    "tmdb_rating": 8.2,
+    "tmdb_vote_count": 23132
+  },
+  {
+    "movie_id": 110,
+    "tmdb_id": 197,
+    "title": "Cesur Yürek",
+    "original_title": "Braveheart",
+    "movielens_title": "Braveheart (1995)",
+    "release_date": "1995-05-24",
+    "overview": "13. yüzyıl İskoçyası. İngiliz Kralı I. Edward, İskoçya'yı da krallığına katmak istemektedir. İngiliz soylularına Prima Nocta, yani topraklarında evlenen her İskoç kadınla ilk geceyi geçirme hakkını vererek İskoç halkının ayaklanmasına sebep olur. Çocukken ailesini ve yakınlarını özgür İskoçya uğruna kaybeden William Wallace, yıllar sonra karısı da öldürülünce halkı organize etmeye ve İngilizleri topraklarından atmaya karar verir.",
+    "genres": [
+      "Tarih",
+      "Dram",
+      "Savaş"
+    ],
+    "runtime": 178,
+    "poster_url": "https://image.tmdb.org/t/p/w500/h98Ml18umVRDuS9nLoJoLK7qIm8.jpg",
+    "tmdb_rating": 7.947,
+    "tmdb_vote_count": 11596
+  },
+  {
+    "movie_id": 589,
+    "tmdb_id": 280,
+    "title": "Terminatör 2: Mahşer Günü",
+    "original_title": "Terminator 2: Judgment Day",
+    "movielens_title": "Terminator 2: Judgment Day (1991)",
+    "release_date": "1991-07-03",
+    "overview": "Sarah Connor'ın Skynet tarafından gelecekten gönderilen Terminator'ın elinden kurtulmasından on yıl kadar sonra, 1995 yılında bu kez T-1000 modeli yeni bir Terminator, insan direnişçilerin gelecekteki lideri ve Sarah'nın oğlu John Connor'ı öldürmek için 2029 yılından gönderilir. Direnişçiler ise 1995 yılına yeniden programladıkları T-800 modeli bir Terminator göndermeyi başarırlar. T-800'ün görevi Sarah'yı akıl hastanesinden kaçırmak ve John'u T-1000'e karşı korumaktır.",
+    "genres": [
+      "Aksiyon",
+      "Gerilim",
+      "Bilim-Kurgu"
+    ],
+    "runtime": 156,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2e2oJJKdNrxg8k74ty3fB90xLfl.jpg",
+    "tmdb_rating": 8.177,
+    "tmdb_vote_count": 15151
+  },
+  {
+    "movie_id": 527,
+    "tmdb_id": 424,
+    "title": "Schindler'ın Listesi",
+    "original_title": "Schindler's List",
+    "movielens_title": "Schindler's List (1993)",
+    "release_date": "1993-12-15",
+    "overview": "Tüm zamanların tarihsel açıdan en önemli filmlerinden biri olan Steven Spielberg'in Schindler'ın Listesi, cesaret ve inanç dersleriyle nesiller boyu ilham vermeye devam eden güçlü bir hikaye. En İyi Film ve En İyi Yönetmen de dahil olmak üzere yedi Akademi Ödülü sahibi olan bu inanılmaz gerçek hikaye, Holokost sırasında 1.100'den fazla Yahudinin hayatını kurtaran esrarengiz Oskar Schindler'ı (Liam Neeson) konu alıyor. Bu, fark yaratan bir adamın zaferi ve yaptıkları sayesinde insanlık tarihinin en karanlık bölümlerinden birini atlatanların dramıdır.",
+    "genres": [
+      "Dram",
+      "Tarih",
+      "Savaş"
+    ],
+    "runtime": 195,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2mOH8EqumIaepdP94e0cy4Xnyg7.jpg",
+    "tmdb_rating": 8.571,
+    "tmdb_vote_count": 18157
+  },
+  {
+    "movie_id": 1,
+    "tmdb_id": 862,
+    "title": "Oyuncak Hikayesi",
+    "original_title": "Toy Story",
+    "movielens_title": "Toy Story (1995)",
+    "release_date": "1995-11-22",
+    "overview": "Buzz Lightyear adlı yeni çıkan oyuncak, Andy'e hediye edilir. Oyuncağı çok seven Andy, eski gözdesi Şerif Woody'e olan ilgisini yitirir. Bir gün Buzz yanlışlıkla pencereden aşağı uçunca, herkes Woody'nin onu öldürdüğüne inanır. Woody, kendisini kurtarabilmek için Buzz'ın arkasından giderek onu geri getirmeye karar verir. Fakat ikiliyi dış dünyada büyük tehlikelerle dolu maceralar beklemektedir.",
+    "genres": [
+      "Aile",
+      "Komedi",
+      "Animasyon",
+      "Macera"
+    ],
+    "runtime": 81,
+    "poster_url": "https://image.tmdb.org/t/p/w500/4KAtscEx3Pt9YPpNuK3BO6irQn1.jpg",
+    "tmdb_rating": 7.99,
+    "tmdb_vote_count": 20796
+  },
+  {
+    "movie_id": 780,
+    "tmdb_id": 602,
+    "title": "Kurtuluş Günü",
+    "original_title": "Independence Day",
+    "movielens_title": "Independence Day (a.k.a. ID4) (1996)",
+    "release_date": "1996-07-02",
+    "overview": "Tüm zamanların en çok izlenen filmlerinden olan \"Kurtuluş Günü\", güçlü uzaylı yaratıkların insanoğluna saldırısını konu alıyor. Olaylar, çok büyük uzay gemilerinin ortaya çıkmasıyla başlar. Bu harika görüntü, gemilerin tüm dünyadaki şehirlere ateş açmasıyla sona erer. Şimdi dünyanın tek umudu, bu saldırı sonrası sağ kalan savaşçılarıdır. İnsanoğlunun geleceği, kurtulanların düzenleyeceği son bir saldırıya bağlıdır. 2 Temmuz'da dünyanın her yerindeki iletişim sistemleri, tuhaf bir atmosfer olayı sonucu bozulur. Hemen sonrasında silahlı kuvvetler tarafından, devasa nesnelerin dünyaya doğru yaklaşmakta olduğu açıklanır. Uzaylılarla her türlü iletişim denemesinin başarısız olmasının ardından, şimdi kablo teknisyenliği yapan eski bilimadamı David Levinson, uzaylıların bir günden daha kısa süre içerisinde dünyanın önemli noktalarına büyük bir saldırı gerçekleştireceğini fark eder.",
+    "genres": [
+      "Aksiyon",
+      "Macera",
+      "Bilim-Kurgu"
+    ],
+    "runtime": 145,
+    "poster_url": "https://image.tmdb.org/t/p/w500/2zys4v8oxqNbE5xg08b1NExESzW.jpg",
+    "tmdb_rating": 6.922,
+    "tmdb_vote_count": 10886
+  },
+  {
+    "movie_id": 150,
+    "tmdb_id": 568,
+    "title": "Apollo 13",
+    "original_title": "Apollo 13",
+    "movielens_title": "Apollo 13 (1995)",
+    "release_date": "1995-06-30",
+    "overview": "Lovell, Jack Swigert ve Fred Haise'den oluşan Apollo 13 ekibi, NASA'nın yürüttüğü beşinci uzay görevinin sırasında \"yarı yolda\" oksijen tanklarından birinin patlaması yüzünden güç ve oksijen sıkıntısı çekmeye başlarlar ve aracın Dünya'ya dönmesi risk altına girer. Geri kalan oksijeni idareli kullanırken donma ve havasızlıktan ölme tehlikelerini göze alan ekip ne pahasına olursa olsun yörüngeden kurtularak Dünya'ya dönmeyi deneyeceklerdir. Fakat Houston'daki komuta merkezindeki görevliler hasar görmüş olan aracın atmosferden geçerken yanarak parçalanabileceğini tahmin etmektedir.",
+    "genres": [
+      "Dram",
+      "Tarih"
+    ],
+    "runtime": 140,
+    "poster_url": "https://image.tmdb.org/t/p/w500/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+    "tmdb_rating": 7.464,
+    "tmdb_vote_count": 6204
+  },
+  {
+    "movie_id": 1196,
+    "tmdb_id": 1891,
+    "title": "Yıldız Savaşları: İmparator'un Dönüşü",
+    "original_title": "The Empire Strikes Back",
+    "movielens_title": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+    "release_date": "1980-05-20",
+    "overview": "Yıldız Savaşları: İmparator'un Dönüşü'nde iyiyle kötü arasındaki çatışmayı ilk defa dijital ortamda keşfedin. Ölüm Yıldızı'nın yok edilmesinden sonra İmparatorluk güçleri Asileri kovalamaya devam eder. Asi güçlerin buz gezegen Hoth'taki mağlubiyetinin ardından Luke, Cumhuriyet'in düşmesinden beri Dagobah gezegeninde gizlenen Jedi ustası Yoda ile çalışmak için yola çıkar. Luke'yi karanlık tarafa döndürmeye çabalarken Darth Vader onu Bespin'in Bulut Şehri'nde tuzağa düşürür.",
+    "genres": [
+      "Macera",
+      "Aksiyon",
+      "Bilim-Kurgu"
+    ],
+    "runtime": 128,
+    "poster_url": "https://image.tmdb.org/t/p/w500/r9w1NH3495IW27qEjUCJ8r7Wt4Y.jpg",
+    "tmdb_rating": 8.393,
+    "tmdb_vote_count": 19099
+  },
+  {
+    "movie_id": 2858,
+    "tmdb_id": 14,
+    "title": "Amerikan Güzeli",
+    "original_title": "American Beauty",
+    "movielens_title": "American Beauty (1999)",
+    "release_date": "1999-09-15",
+    "overview": "Lester Burnham, çevresindeki insanlar tarafından sevilmediğini ve horgörüldüğünü düşünmektedir. Karısı Carolyn, bunca yıllık evliliklerinden sonra sanki ondan nefret eder gibi davranmaktadır. Kızı Jane, onu küçük görmektedir. Patronu ise sürekli onun girişimlerini baltalamaktadır.  Yıllardır gizlemekte olduğu tutkuları sonucunda Lester, hayatında birkaç küçük değişiklik yapmaya karar verir. Böylelikle orta yaş krizini de kolaylıkla atlatabileceğine inanmaktadır. Aldığı kararlar sonucunda giderek özgürleştikçe ve mutlu olmaya başladıkça karısıyla kızını daha çok sinirlendirmeye başlar.",
+    "genres": [
+      "Dram"
+    ],
+    "runtime": 122,
+    "poster_url": "https://image.tmdb.org/t/p/w500/al7lLfyGPtzJivdcK6dl67B2Z6S.jpg",
+    "tmdb_rating": 7.998,
+    "tmdb_vote_count": 13529
+  },
+  {
+    "movie_id": 2959,
+    "tmdb_id": 550,
+    "title": "Dövüş Kulübü",
+    "original_title": "Fight Club",
+    "movielens_title": "Fight Club (1999)",
+    "release_date": "1999-10-15",
+    "overview": "Saatli bomba gibi patlamaya hazır, uykusuzluk çeken bir adam ile tekinsiz bir sabun satıcısı; ilkel erkek saldırganlığını şok edici yeni bir terapi yöntemine dönüştürür. Kurdukları bu fikir hızla yayılır ve her şehirde yeraltı \"dövüş kulüpleri\" kurulmaya başlar ta ki egzantrik biri yollarına çıkıp yok oluşa doğru giden, kontrolden çıkmış bir sarmalı tetikleyene kadar.",
+    "genres": [
+      "Dram",
+      "Gerilim"
+    ],
+    "runtime": 139,
+    "poster_url": "https://image.tmdb.org/t/p/w500/yjMuqAyJUoQZGWsZ0vZuYj5inAR.jpg",
+    "tmdb_rating": 8.437,
+    "tmdb_vote_count": 33280
+  },
+  {
+    "movie_id": 47,
+    "tmdb_id": 807,
+    "title": "Yedi",
+    "original_title": "Se7en",
+    "movielens_title": "Seven (a.k.a. Se7en) (1995)",
+    "release_date": "1995-09-22",
+    "overview": "Se7en, seri cinayetler işleyen bir katilin peşine düşen iki dedektifin hikayesini anlatıyor. Bir seri katil 7 ölümcül günahı işleyenleri kendi yöntemleriyle öldürmektedir. Yedi ölümcül günah, hıristiyanlık inançlarına göre kibir, açgözlülük, şehvet düşkünlüğü, kıskançlık, oburluk, yıkıcılık ve tembelliktir.",
+    "genres": [
+      "Suç",
+      "Gizem",
+      "Gerilim"
+    ],
+    "runtime": 127,
+    "poster_url": "https://image.tmdb.org/t/p/w500/3qpOnTbxPK2HeHObBHttcvQHLGI.jpg",
+    "tmdb_rating": 8.382,
+    "tmdb_vote_count": 24160
+  },
+  {
+    "movie_id": 50,
+    "tmdb_id": 629,
+    "title": "Olağan Şüpheliler",
+    "original_title": "The Usual Suspects",
+    "movielens_title": "Usual Suspects, The (1995)",
+    "release_date": "1995-07-19",
+    "overview": "Polis San Pedro'da patlayan bir tekneyi araştırdığında 27 ceset ve 91 milyon dolarlık uyuşturucu parası bulur. Olaydan kurtulan iki kişi, yanıklarla dolu vücuduyla korkmuş bir Macar terörist ve Verbal Kint adında bir tetikçidir. Polisteki sorgusunda Kint, 6 hafta öncesinden başlayarak olayları anlatır.",
+    "genres": [
+      "Dram",
+      "Suç",
+      "Gerilim"
+    ],
+    "runtime": 106,
+    "poster_url": "https://image.tmdb.org/t/p/w500/6GZuBIZnBvbt3yi8hfq4RHVIb5P.jpg",
+    "tmdb_rating": 8.162,
+    "tmdb_vote_count": 11934
+  },
+  {
+    "movie_id": 457,
+    "tmdb_id": 5503,
+    "title": "Kaçak",
+    "original_title": "The Fugitive",
+    "movielens_title": "Fugitive, The (1993)",
+    "release_date": "1993-08-06",
+    "overview": "Chicago Memorial Hastanesi’nde saygıdeğer bir cerrah olan Doktor Richard Kimble, Chicago şehrinin ABD başkanı George W. Bush kadar zeki! polisleri tarafından karısını öldürmekle suçlanmaktadır. Dr. Kimble bunu reddetmekte, karısını tek kollu bir adamın öldürdüğünü söylemektedir, fakat deliller aleyhinedir.Mahkemeye çıkarılan Dr. Kimble suçlu bulunur ve zehirli iğneyle öldürülmesine karar verir. Dr. Kimble öldürüleceği yere nakli sırasında onunla beraber nakledilen diğer mahkumların kaçış entrikaları sayesinde kurtulur ve kaçar. Kimble’ın hedefi karısını öldürdüğünü söylediği tek kollu adamı bulmaktır. Ancak Kimble’ın işi kolay değildir; çünkü peşinde fazlasıyla inatçı bir dedektif olan Samuel “Sam” Gerard vardır. Kimble hem tek kollu adamı bulup cinayeti onun işlediğini kanıtlamak hem de bu süre zarfında dedektif Gerard’a yakalanmamak zorundadır.",
+    "genres": [
+      "Aksiyon",
+      "Gerilim",
+      "Dram"
+    ],
+    "runtime": 131,
+    "poster_url": "https://image.tmdb.org/t/p/w500/v30kk26cJSTWm4I12HbMf2rSCon.jpg",
+    "tmdb_rating": 7.496,
+    "tmdb_vote_count": 5052
+  },
+  {
+    "movie_id": 592,
+    "tmdb_id": 268,
+    "title": "Batman",
+    "original_title": "Batman",
+    "movielens_title": "Batman (1989)",
+    "release_date": "1989-06-21",
+    "overview": "Gotham Şehri, karanlık, tehlikeli ve gotik! Tek koruyucusu ise çoğunluğu çürümüş durumdaki Polis departmanı. Savcı Harvey Dent ile komiser Gordon’un tüm çabalarına karşın, şehir giderek daha güvensiz bir hale gelmektedir... ta ki Kara Şovalye ortaya çıkana dek.Suçlular çoğunlukla batıl inanç sahibidir, ve korkak... bu yüzden kendisine onların yüreğine korku salacak bir gizli kimlik seçmiştir. O bir yarasadır. Yarasa-adam, Batman!Ödüllü bir gazeteci olan genç ve güzel Vicky Vale, esrarengiz yarasa-adamın sırrını çözmeye kararlıdır. Öte yandan Jack Napier, yanlışlıkla asit kazanına düştükten sonra şehrin psikopat palyaço suç kıralına, Batman’in azılı düşmanı sinirbozucu Joker’e dönüşür.",
+    "genres": [
+      "Fantastik",
+      "Aksiyon",
+      "Suç"
+    ],
+    "runtime": 126,
+    "poster_url": "https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+    "tmdb_rating": 7.235,
+    "tmdb_vote_count": 8929
+  },
+  {
+    "movie_id": 1210,
+    "tmdb_id": 1892,
+    "title": "Yıldız Savaşları: Jedi'nin Dönüşü",
+    "original_title": "Return of the Jedi",
+    "movielens_title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+    "release_date": "1983-05-25",
+    "overview": "Yıldız Savaşları: Jedi'nin Dönüşü'nde İmparatorluk, çok daha güçlü bir Ölüm Yıldızı ile Asileri vurmaya hazırlanırken Asi donanması da uzay istasyonuna büyük bir saldırı düzenler. Luke Skywalker, İmparator'dan önce Darth Vader ile son ve büyük bir düelloya tutuşur.",
+    "genres": [
+      "Macera",
+      "Aksiyon",
+      "Bilim-Kurgu"
+    ],
+    "runtime": 136,
+    "poster_url": "https://image.tmdb.org/t/p/w500/jxtM1EwUO5GuucY6MqGR9r17AYN.jpg",
+    "tmdb_rating": 7.912,
+    "tmdb_vote_count": 17525
+  },
+  {
+    "movie_id": 1198,
+    "tmdb_id": 85,
+    "title": "Indiana Jones: Kutsal Hazine Avcıları",
+    "original_title": "Raiders of the Lost Ark",
+    "movielens_title": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)",
+    "release_date": "1981-06-12",
+    "overview": "Amerikan Hükümeti Ark of the Conenant’ı bulması için Arkeolog Dr. Indiana Jones'u görevlendirir. Ark’ta ünlü 10 Emir’in varolduğuna ve kutsal güçler olduğuna inanılmaktadır. Üstelik Hitler’in ajanları da Ark’ın peşindedirler. Jones, eski aşkı Marion’la birlikte Nepal’den Kahire’ye kadar tuzak ve tehlikeyle dolu bir maceraya atılır.",
+    "genres": [
+      "Macera",
+      "Aksiyon"
+    ],
+    "runtime": 115,
+    "poster_url": "https://image.tmdb.org/t/p/w500/o79udSXjgwW1KBZSv9sGYGKf9Aa.jpg",
+    "tmdb_rating": 7.928,
+    "tmdb_vote_count": 14193
+  },
+  {
+    "movie_id": 380,
+    "tmdb_id": 36955,
+    "title": "Gerçek Yalanlar",
+    "original_title": "True Lies",
+    "movielens_title": "True Lies (1994)",
+    "release_date": "1994-07-15",
+    "overview": "Harry Tasker aslında gizli ajandır ama karısı Helen bile onu basit bir bilgisayar satıcısı zannetmektedir. Her şey yolunda giderken beklenmedik bir şekilde Harry'nin bu iki hayatı birbirinde karışır.  Artık yalnızca uluslararası teröristlere karşı savaşmak zorunda kalmayacak aynı zamanda evliliği için de mücadele etmek zorundadır.",
+    "genres": [
+      "Aksiyon",
+      "Gerilim"
+    ],
+    "runtime": 141,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eBqrVpqth9rt9l0gpPDk7bSMySW.jpg",
+    "tmdb_rating": 7.105,
+    "tmdb_vote_count": 4804
+  },
+  {
+    "movie_id": 32,
+    "tmdb_id": 63,
+    "title": "12 Maymun",
+    "original_title": "Twelve Monkeys",
+    "movielens_title": "Twelve Monkeys (a.k.a. 12 Monkeys) (1995)",
+    "release_date": "1995-12-29",
+    "overview": "Ölümcül bir virüs tüm dünyayı tehdit etmektedir. 1996'da 5 milyar kişinin ölümüne neden olan bu virüs, 2035'te dünya nüfusunun yalnızca %1'ini hayatta bırakmıştır. Bu virüsün etkilerinden korunabilmek için insanlar yer altında koloniler kurarak yaşamaya başlar.Bu virüsün üstesinden gelebilmek için mahkumlardan James Cole, zaman makinesiyle geçmişe gönderilir. Yanlışlıkla 1990 yılına gönderilen Cole, bilimadamları için virüs hakkında araştırma yapar.Daha sonra zaman yolculuğunu sürdüren Cole, 1996'da akıl hastanesine alınır. Burada Dr. Kathryn Railly ile tanışan Cole, onu içinde bulundukları duruma inandırmaya başlar.",
+    "genres": [
+      "Bilim-Kurgu",
+      "Gerilim",
+      "Gizem"
+    ],
+    "runtime": 129,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vsvy9VTrkvzUReSBp06EzhliGYt.jpg",
+    "tmdb_rating": 7.613,
+    "tmdb_vote_count": 9531
+  },
+  {
+    "movie_id": 858,
+    "tmdb_id": 238,
+    "title": "Baba",
+    "original_title": "The Godfather",
+    "movielens_title": "Godfather, The (1972)",
+    "release_date": "1972-03-14",
+    "overview": "Mario Puzo'nun çok satan kitabından Puzo ve yönetmen Francis Ford Coppola tarafından sinemaya uyarlanan eser, 40'lar ve 50'lerin Amerika'sında, bir İtalyan mafya ailesinin destansı öyküsünü konu alıyor. Corleone ailesi, Don Vito Corleone'nin başında olduğu, suça dayalı bir örgüt kurmuş olan İtalyan asıllı meşhur bir ailedir. Aile, New York'taki diğer dört aileyle birlikte New York'un yeraltı işlerini yönetmektedir. Ancak Corleone ailesini diğerlerinden ayıran özelliği, Don Corleone'nin cebinde bozuk para gibi taşıdığı politikacılar ve yargıçlardır. Politikacılar ve yargıçlarla olan bu yakın ilişkileri diğer ailelerin açamadığı kapıları açabilmesini sağlamaktadır.",
+    "genres": [
+      "Dram",
+      "Suç"
+    ],
+    "runtime": 175,
+    "poster_url": "https://image.tmdb.org/t/p/w500/vseIVRdN4xasYwStQIi6SI7DcEu.jpg",
+    "tmdb_rating": 8.7,
+    "tmdb_vote_count": 23931
+  },
+  {
+    "movie_id": 2028,
+    "tmdb_id": 857,
+    "title": "Er Ryan'ı Kurtarmak",
+    "original_title": "Saving Private Ryan",
+    "movielens_title": "Saving Private Ryan (1998)",
+    "release_date": "1998-07-24",
+    "overview": "Dört çocuk annesi bir kadın, İkinci Dünya Savaşı’nda kaybettiği üç oğlunun ardından fazlasıyla yaralanmıştır. Şimdi tek dileği hayatta kalan tek oğlunun savaştan sağ salim dönmesidir. Yakarışları karşılık bulur ve Başkan tarafından verilen bir emirle James Ryan’ın ne pahasına olursa olsun bu savaştan sağ çıkması sağlanacaktır. Normandiya çıkarmasının yapıldığı gün, sekiz kişilik bir asker birliği farklı bir göreve, Ryan’ı kurtarma görevine atanır. Ancak yüzbaşı John Miller tarafından yönetilen bu birim, can pazarının yaşandığı bu zorlu ortamda hakikatli bir yaşam mücadelesine atılacak; tek bir adamı kurtarmak için sekiz kişinin hayatının tehlikeye atılmasının meşruluğunu sorgulayacaktır.",
+    "genres": [
+      "Savaş",
+      "Dram",
+      "Tarih"
+    ],
+    "runtime": 169,
+    "poster_url": "https://image.tmdb.org/t/p/w500/b9QqS5Hz1CqT16ZxwxJqwzCfIgr.jpg",
+    "tmdb_rating": 8.235,
+    "tmdb_vote_count": 18048
+  },
+  {
+    "movie_id": 4993,
+    "tmdb_id": 120,
+    "title": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "movielens_title": "Lord of the Rings: The Fellowship of the Ring, The (2001)",
+    "release_date": "2001-12-18",
+    "overview": "İyiyle kötü arasındaki mücadelenin epik bir anlatımı olan bu filmde, dünyanın kaderini değişterecek olan bir yüzükten kurtulmak için verilen mücadele anlatılıyor. Yıllar önce üretilen ve Orta Dünya topraklarına kandan başka hiçbir şey getirmeyen yüzüklerin sonuncusu, üretiminden yüz yıllar sonra ortaya çıkar. Amcasının kendisine emanet ettiği yüzüğün nelere kadir olduğundan habersiz olan Frodo, büyücü Gandalf'ın anlattıkları sonrasında dehşete kapılır. Bu yüzükten ve savaşlardan kurtulmanın, gücünü toplamaya çalışan Sauron'u engellemenin tek yolu yüzüğü yok etmektir. Yüzüğü yok edilebileceği tek yer olan Mordor'a götürmek için kendini feda eden savaşçılardan oluşan bir ekip oluşturulur. Çok uzun ve çetin geçecek olan yolculuk başlar. Orta Dünya'nın kaderi, bu insanların ellerindedir.",
+    "genres": [
+      "Macera",
+      "Fantastik",
+      "Aksiyon"
+    ],
+    "runtime": 228,
+    "poster_url": "https://image.tmdb.org/t/p/w500/37kdeAEyw8YlVLaAhYazBRAni9S.jpg",
+    "tmdb_rating": 8.451,
+    "tmdb_vote_count": 28808
+  },
+  {
+    "movie_id": 588,
+    "tmdb_id": 812,
+    "title": "Alaaddin",
+    "original_title": "Aladdin",
+    "movielens_title": "Aladdin (1992)",
+    "release_date": "1992-11-25",
+    "overview": "Agrabah şehrinin kalbinde, köylü Alaaddin ve onun yaramaz maymunu Abu, özgür ruhlu güzel prenses Yasemin'i kurtarmak için savaş vermektedirler. Sihirli bir lambayı ovmasıyla hayatı değişen Alaaddin'in şimdi çılgın ve şekilden şekile giren bir cini vardır! Cin'in de yardımıyla Alaaddin artık bir prenstir. Fakat kötü yürekli Cafer ve onun sinir bozucu papağanı Yago da lambanın gizli güçlerinin peşindedir. Şimdi Alaaddin'in onları yenmesi, güzel prensesin kalbini kazanması ve en sonunda görünüşte değil, yüreğinde prens olduğunu kanıtlaması gerekmektedir!",
+    "genres": [
+      "Animasyon",
+      "Aile",
+      "Macera",
+      "Fantastik",
+      "Romantik"
+    ],
+    "runtime": 91,
+    "poster_url": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+    "tmdb_rating": 7.657,
+    "tmdb_vote_count": 12388
+  },
+  {
+    "movie_id": 608,
+    "tmdb_id": 275,
+    "title": "Fargo",
+    "original_title": "Fargo",
+    "movielens_title": "Fargo (1996)",
+    "release_date": "1996-03-08",
+    "overview": "Jerry Lundegaard borçları olan bir sahtekârdır. İhtiyaç duyduğu meblağda parayı acilen edinmeli ve borçlarını temizlemelidir. Karısının babası oldukça zengin bir adamdır; ancak gamsız bir sahtekar olan Jerry’ye yardım etmesi imkansız gibi görünmektedir. Jerry’nin aklına şeytani bir fikir gelir. Jerry, karısını kaçırmak ve kayınpederinden fidye istemek üzere iki adam kiralar. Lakin hiçbir şey planlandığı gibi ilerlemeyecektir.  Sinemalarının ilk döneminden bu yana çizgilerini hiç bozmadan ilerleyen Coen Kardeşler’e büyük bir şöhret kazandıran Fargo, orijinal senaryo ve en iyi kadın oyuncu dallarında Oscar kazanmıştı.",
+    "genres": [
+      "Suç",
+      "Dram",
+      "Gerilim"
+    ],
+    "runtime": 98,
+    "poster_url": "https://image.tmdb.org/t/p/w500/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+    "tmdb_rating": 7.848,
+    "tmdb_vote_count": 9569
+  },
+  {
+    "movie_id": 377,
+    "tmdb_id": 1637,
+    "title": "Hız Tuzağı",
+    "original_title": "Speed",
+    "movielens_title": "Speed (1994)",
+    "release_date": "1994-06-09",
+    "overview": "Howard fidye istemek için bombalı saldırılar düzenleyen polis tarafından aranılan bir suçludur.Bir otobüse yerleştirdiği özel bombayla yine fidye istemektedir.Genç bir polis memuru olan Jack hızı 80 km altına düşerse içinde bomba patlayacak olan otobüsün içindekileri kurtarmakla görevlendirilmiştir..Ona yardım edecek olan kişiyse otobüs şöförünün yerine geçmek zorunda kalan ve ehliyeti aşırı hız nedeniyle alınmış olan Annie'dir.",
+    "genres": [
+      "Aksiyon",
+      "Gerilim"
+    ],
+    "runtime": 116,
+    "poster_url": "https://image.tmdb.org/t/p/w500/1SnUyCMbp64xBGWChfMO0sYIJUQ.jpg",
+    "tmdb_rating": 7.16,
+    "tmdb_vote_count": 7171
+  }
+]
