@@ -63,3 +63,15 @@ reports/                Exploratory figures and evaluation outputs
 MovieLens Small is provided by GroupLens. Its original usage conditions and citation are included in `data/raw/ml-latest-small/README.txt`; those conditions also apply to redistributed data and transformations. Citation: F. Maxwell Harper and Joseph A. Konstan, *The MovieLens Datasets: History and Context*, ACM TiiS 5(4), 2015. https://doi.org/10.1145/2827872
 
 Movie information and posters are provided by TMDB. This product uses the TMDB API but is not endorsed or certified by TMDB. TMDB imagery is not licensed as this project's source code.
+
+
+## Screenshots
+
+### Homepage
+![Cinematic 37 homepage](docs/screenshots/home.png)
+
+### Movie selection
+![Select and rate your favorite movies](docs/screenshots/catalog.png)
+
+### Personalized recommendations
+![Movie recommendations based on your ratings](docs/screenshots/recommendations.png)
